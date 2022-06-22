@@ -17,12 +17,12 @@
         <dependency>
             <groupId>com.netease.nim</groupId>
             <artifactId>camellia-redis-proxy-discovery-common</artifactId>
-            <version>1.0.46</version>
+            <version>1.0.59</version>
         </dependency>
         <dependency>
             <groupId>com.netease.nim</groupId>
             <artifactId>camellia-core</artifactId>
-            <version>1.0.46</version>
+            <version>1.0.59</version>
         </dependency>
         <dependency>
             <groupId>org.apache.curator</groupId>
