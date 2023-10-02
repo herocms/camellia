@@ -35,7 +35,7 @@
 		<dependency>
 			<groupId>com.netease.nim</groupId>
 			<artifactId>camellia-redis</artifactId>
-			<version>1.0.46</version>
+			<version>1.2.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
